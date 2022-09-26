@@ -1,0 +1,26 @@
+İlk haftanın programlama dersi ödevi:
+    Github nedir ?
+		Github bir projede bir ekibin uzak mesafeden birbirlerine aynı projeyi birebir yürütmesini sağlayan
+		bir platformdur bu platformda ekip üyeleri github bulut depolama ve bircok acık yazılım kodlarından yararlanarak
+		dosyalaarını bir bütünde tutabileceği bir servistir. Ayrıca gelişmelerden müşterilerde projemizi takipte kalabilir.
+    Ne amaçla kullanılır ?
+        Githup bireysel veya ekipce yapılan projelerde zaman kazanmak için kullanılır. Ayrıca projeleri uzaktan kontrol 
+        edebilmek icin de kullanilir. ve mesafe sorunlarından kurtulmak amaçlı ve ayrı zamanda projeyi bulut sisteminde hızlıcana erişebilmek icin	
+    Yararları nedir ?
+        bir çok kişiden oluşan ve uzak mesafede olan  bir ekipte
+        yüz yüze gelmeden ve yol ulaşım masraflarına girmeden uzaktan beraber proje yürütmelerinde olanak sağlayabilen
+        bir platform ve servistir. Bu sayede bir cok zaman kazanılabilir. 
+		
+        Ayrıca müşterilerinde kullanabileceği bir alan sunabilir.Ekibinizle hazırladığınız projeyi sunduktan sonra
+        müşteri proje üstünden bazı değişiklikler veya önermeler fikirler sunmak istiyor. Githup servisi üzerinden bu istekleri
+        düzenleyerek güzel bir şekilde müşteriye tekrar sunabilirsiniz ve bu sayede iletişimi daha hızlı sağlayarak vakitten kazanirsiniz.
+        
+    Github ile ortak proje nasıl yazılır?
+        Öncelikle bir ekib olarak Github.com sitesinden bireysel hesap kurulur.
+        Hesap kurduktan sonra proje yetkilisi githup ana menüsünden sağ yukarda + işeretine basıyoruz.
+        New Proje kısmına basıyoruz ve bir proje başlatıyoruz. Projeyi başlattıktan sonra,
+        Sol yukarıdan proje adını düzenleyebilirsiniz
+        Sağ yukarıda ise Anlayış, Proje detayla, Diğer seçenekler kısmında diğer seçekler kısmına giriyoruz.
+        ayarlar kısmına bastıktan sonra erişim yönetme sistemine giriyoruz, daha sonrasında ekip arkadaşlarımıza Rol verip projeye davet
+        ediyoruz.
+   
